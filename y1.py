@@ -1,0 +1,11 @@
+print("Yashita")
+a=15
+b=20
+add=a+b
+div=a/b
+print(add)
+print(div)
+if(a>b):
+       print(a)
+else:
+       print(b)
